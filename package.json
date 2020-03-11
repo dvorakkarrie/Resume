@@ -1,0 +1,18 @@
+{
+  "name": "dvorakkarrie-resume",
+  "version": "1.0.1",
+  "description": "For this exercise we're going to create our own npm package that will print out your resume.  the cool thing about this is that anyone can install your code and print out a resume from their console!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:dvorakkarrie/npm-resume.git"
+  },
+  "bin": {
+    "karrie-resume": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
