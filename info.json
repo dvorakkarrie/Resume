@@ -1,0 +1,21 @@
+{
+    "name": "Karrie Dvorak",
+    "website": "https://github.com/dvorakkarrie",
+    "linkedin": "https://www.linkedin.com/in/karrie-dvorak/",
+    "github": "dvorakkarrie",
+    "email": "dvorak.karrie@gmail.com",
+    "resume": "https://www.linkedin.com/in/karrie-dvorak/",
+    "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Wordpress"
+    ],
+    "otherSkills": [
+    "Java",
+    "SQL"
+    ]
+}
