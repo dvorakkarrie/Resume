@@ -11,7 +11,7 @@
     "url": "git@git.generalassemb.ly:dvorakkarrie/npm-resume.git"
   },
   "bin": {
-    "karriedvorak-resume": "./index.js"
+    "karrie-resume": "./index.js"
   },
   "author": "",
   "license": "ISC"
